@@ -1,5 +1,5 @@
 body{
-   
+   background-color: darkgoldenrod;
 }
 
 .wrapper{
@@ -13,6 +13,8 @@ body{
 
 #number-one {
     color: red;
+    width: 50%;
+    height: 150px;
 }
 
 p {

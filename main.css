@@ -1,5 +1,10 @@
 body{
    background-color: darkgoldenrod;
+   font-family: 'Roboto Serif', sans-serif;
+   background-image: url("https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_2x1.jpg");
+   background-repeat: no repeat;
+   background-position: center;
+   background-size: cover;
 }
 
 .wrapper{
@@ -19,4 +24,9 @@ body{
 
 p {
     font-size: x-large;
+}
+
+.placeholder{
+    color: green;
+
 }
